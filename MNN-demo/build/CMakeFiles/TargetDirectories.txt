@@ -1,0 +1,3 @@
+/home/user/work/MNN-yolov3/MNN-demo/build/CMakeFiles/rebuild_cache.dir
+/home/user/work/MNN-yolov3/MNN-demo/build/CMakeFiles/yolo.dir
+/home/user/work/MNN-yolov3/MNN-demo/build/CMakeFiles/edit_cache.dir
